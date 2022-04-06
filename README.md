@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/yogeshbhatt89](https://github.com/yogeshbhatt89)
 
 - 📫 How to reach me **ybhatt610@gmail.com**
-- Check out my Portfolio here [https://yogeshb.dev/]
+- Check out my Portfolio here https://yogeshb.dev/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
